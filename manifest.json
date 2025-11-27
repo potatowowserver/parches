@@ -8,5 +8,37 @@
     }
   ],
   "news": [
-  ],
+    {
+      "id": 1,
+      "title": "¡Bienvenido a PotatoWoW!",
+      "description": "Únete a nuestra comunidad y disfruta de una experiencia clásica de World of Warcraft mejorada.",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=450&fit=crop",
+      "date": "2024-11-27",
+      "type": "featured"
+    },
+    {
+      "id": 2,
+      "title": "Actualización del Servidor v1.0",
+      "description": "Nuevas mejoras de rendimiento y estabilidad. Descarga los últimos parches para disfrutar de la mejor experiencia.",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=450&fit=crop",
+      "date": "2024-11-27",
+      "type": "update"
+    },
+    {
+      "id": 3,
+      "title": "Eventos Especiales de Temporada",
+      "description": "Participa en nuestros eventos especiales y gana recompensas exclusivas. ¡No te lo pierdas!",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=450&fit=crop",
+      "date": "2024-11-20",
+      "type": "event"
+    },
+    {
+      "id": 4,
+      "title": "Guía para Nuevos Jugadores",
+      "description": "Aprende todo lo que necesitas saber para comenzar tu aventura en PotatoWoW.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=450&fit=crop",
+      "date": "2024-11-15",
+      "type": "guide"
+    }
+  ]
 }
