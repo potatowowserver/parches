@@ -1,5 +1,12 @@
 {
   "version": "v1.0",
+  "launcherVersion": "1.0.0",
+  "updateAvailable": false,
+  "links": {
+    "store": "https://potatowow.com/store",
+    "forums": "https://potatowow.com/forums",
+    "patchNotes": "https://github.com/potatowowserver/parches/releases"
+  },
   "patches": [
     {
       "file": "patch-K.mpq",
